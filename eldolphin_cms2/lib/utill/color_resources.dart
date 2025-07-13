@@ -142,4 +142,5 @@ class ColorResources {
     900: Color(0xff1455AC),
   };
 
-static const MaterialColor primaryMaterial = MaterialColor(0xFF1455AC, colorMap);}
+  static const MaterialColor primaryMaterial = MaterialColor(0xFF1455AC, colorMap);
+}

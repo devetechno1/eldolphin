@@ -11,7 +11,7 @@ ThemeData light = ThemeData(
     tertiary: Color(0xFFA8B3F9),
     tertiaryContainer: Color(0xFFADC9F3),
     onTertiaryContainer: Color(0xFF33AF74),
-    onPrimary: Color(0xFF7FBBFF),
+    onPrimary: Color(0xFF7E5B64),
     background: Color(0xFFF4F8FF),
     onSecondary: Color(0xFF6E66F3),
     error: Color(0xFFFF5555),
