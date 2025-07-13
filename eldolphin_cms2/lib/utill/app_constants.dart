@@ -2,10 +2,10 @@ import 'package:flutter_sixvalley_ecommerce/data/model/response/language_model.d
 import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'شغل مطاعم';
+  static const String appName = 'متجر الدولفن';
   static const String slogan = '';
   static const String appVersion = '14.2';
-  static const String baseUrl = 'https://shoghlmataem.com';
+  static const String baseUrl = 'https://eldolphinstore.com';
   static const String userId = 'userId';
   static const String name = 'name';
   static const String categoriesUri = '/api/v1/categories?guest_id=1';
