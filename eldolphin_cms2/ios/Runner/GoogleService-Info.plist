@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyD9M7zT3O3JvVlYoz_dhYS5u8HZfl-PtHo</string>
+	<string>AIzaSyCFON62xP7TE7lnelZH0KDxcoEj-pms5ZY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>591411908603</string>
+	<string>879131985540</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.niletouch.shoghlmataem</string>
+	<string>com.niletouch.eldolphinstore</string>
 	<key>PROJECT_ID</key>
-	<string>shoghlmataem-88436</string>
+	<string>eldolphinstore</string>
 	<key>STORAGE_BUCKET</key>
-	<string>shoghlmataem-88436.firebasestorage.app</string>
+	<string>eldolphinstore.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:591411908603:ios:a720a8f786dbc0ef7a455e</string>
+	<string>1:879131985540:ios:e6f0aab80fb2e68444a4d1</string>
 </dict>
 </plist>
