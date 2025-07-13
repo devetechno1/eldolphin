@@ -130,17 +130,16 @@ class ColorResources {
   static const Color green = Color(0xff23CB60);
 
   static const Map<int, Color> colorMap = {
-    50: Color(0x10ff972f),
-    100: Color(0x20ff972f),
-    200: Color(0x30ff972f),
-    300: Color(0x40ff972f),
-    400: Color(0x50ff972f),
-    500: Color(0x60ff972f),
-    600: Color(0x70ff972f),
-    700: Color(0x80ff972f),
-    800: Color(0x90ff972f),
-    900: Color(0xffff972f),
+    50: Color(0x101455AC),
+    100: Color(0x201455AC),
+    200: Color(0x301455AC),
+    300: Color(0x401455AC),
+    400: Color(0x501455AC),
+    500: Color(0x601455AC),
+    600: Color(0x701455AC),
+    700: Color(0x801455AC),
+    800: Color(0x901455AC),
+    900: Color(0xff1455AC),
   };
 
-  static const MaterialColor primaryMaterial = MaterialColor(0xFFff972f, colorMap);
-}
+static const MaterialColor primaryMaterial = MaterialColor(0xFF1455AC, colorMap);}
