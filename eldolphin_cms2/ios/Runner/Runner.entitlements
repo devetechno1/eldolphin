@@ -10,7 +10,7 @@
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.niletouch.shoghlmataem</string>
+		<string>$(AppIdentifierPrefix)com.niletouch.eldolphinstore</string>
 	</array>
 </dict>
 </plist>
